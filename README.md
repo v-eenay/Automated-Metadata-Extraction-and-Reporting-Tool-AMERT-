@@ -22,7 +22,9 @@ cd Automated-Metadata-Extraction-and-Reporting-Tool-AMERT-
 
 # Create your magical environment
 python -m venv venv
-source venv/bin/activate # Windows wizards use: venv\Scripts\activate
+source venv/bin/activate 
+
+# Windows wizards use: venv\Scripts\activate
 
 # Summon the dependencies
 pip install -r requirements.txt
