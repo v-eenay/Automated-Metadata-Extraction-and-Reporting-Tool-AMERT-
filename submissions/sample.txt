@@ -1,0 +1,7 @@
+//=============================================================\\
+||                                                             ||
+||  INSERT TARGET FILES/DIRECTORIES FOR METADATA EXTRACTION    ||
+||                                                             ||
+||  [INPUT_SOURCE] --> {META_PROCESSOR} --> [OUTPUT_DATA]      ||
+||                                                             ||
+\\=============================================================//

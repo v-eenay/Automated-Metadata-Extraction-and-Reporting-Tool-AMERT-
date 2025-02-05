@@ -1,0 +1,5 @@
+// ******************************************
+// * Repository for extracted file artifacts *
+// * Destination directory for processed    *
+// * and decompressed binary content       *
+// ******************************************
