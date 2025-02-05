@@ -62,4 +62,3 @@ python main.py
 - 🐙 GitHub: @v-eenay
 
 Made with 💻 and ☕ by Vinay Koirala
-(Because sleep is for the weak!)
